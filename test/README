@@ -1,0 +1,23 @@
+### DATA Structure Example:
+
+### CODE IMPUT:
+
+```js
+// Require here
+const ceymikey = require('npm-package-name');
+
+Statement #1 - ceymikey.printOut();
+
+Statement #2 - ceymikey.executeConsoleString('Test console string');
+
+// NEW DATA STRUCTURE
+{`ceymikey.compile` function:here} ({
+  // Data structure
+  data: {
+    bits: ['ceymikey.VALUE:HERE'], //First value [bits]
+    bytes: ['ceymikey.VALUE:HERE'] //Second value [bytes]
+  }
+});
+```
+
+### A CORRECT CODE EXAMPLE CAN BE FOUND IN 'test/test.js'

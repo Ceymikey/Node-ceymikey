@@ -1,0 +1,5 @@
+/test/
+  /README
+  /STRUCTURE
+  /test.js //Javascript Example
+  /test.ts //Typescript Example

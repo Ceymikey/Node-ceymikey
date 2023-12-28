@@ -1,9 +1,10 @@
 {
   "name": "ceymikey-expansion",
-  "version": "1.0.2",
+  "version": "1.0.8",
   "main": "dist/index.js",
   "scripts": {
-    "test": "node dist/index.js"
+    "run": "node dist/index.js", 
+    "build": "node test/test.js"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +13,6 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "ceymikey-expansion": "^1.0.0"
+    "ceymikey-expansion": "^1.0.3"
   }
 }
